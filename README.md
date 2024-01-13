@@ -7,9 +7,9 @@
 </div>
 
 <p align="center">
-<a href="https://github.com/lov3five/roadmap/stargazers" target="_blank"><img src="https://img.shields.io/github/stars/lov3five/roadmap" alt="GitHub stars" /></a>
-<a href="https://www.npmjs.com/~nestjscore" target="_blank"><img src="https://img.shields.io/github/forks/lov3five/roadmap?color=blue" alt="GitHub forks" /></a>
-<a href="https://www.npmjs.com/~nestjscore" target="_blank"><img src="https://img.shields.io/github/contributors/lov3five/roadmap?color=blue" alt="GitHub contributors" /></a>
+<a href="https://github.com/lov3five/learning-typescript/stargazers" target="_blank"><img src="https://img.shields.io/github/stars/lov3five/learning-typescript" alt="GitHub stars" /></a>
+<a href="https://github.com/lov3five/learning-typescript/forks" target="_blank"><img src="https://img.shields.io/github/forks/lov3five/learning-typescript?color=blue" alt="GitHub forks" /></a>
+<a href="https://github.com/lov3five/learning-typescript/graphs/contributors" target="_blank"><img src="https://img.shields.io/github/contributors/lov3five/learning-typescript?color=blue" alt="GitHub contributors" /></a>
 </br>
 ```Don't forget to hit the ⭐, If you like this repo.```
 
